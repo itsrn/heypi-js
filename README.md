@@ -1,4 +1,4 @@
-# 👋 heypi-js
+# 🍰 heypi-js
 A simple (unofficial) way to use HeyPi in NodeJS.
 
 # 📑 Notice
