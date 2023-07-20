@@ -1,0 +1,8 @@
+{
+    "name": "heypi-js",
+    "version": "1.0.0",
+    "description": "Unofficial HeyPi API wrapper",
+    "repository": "https://github.com/itsrn/heypi-js.git",
+    "author": "ronnuss",
+    "main": "./src/index.js",
+}
