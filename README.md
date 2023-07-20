@@ -1,6 +1,9 @@
 # 🍰 heypi-js
 A simple (unofficial) way to use HeyPi in NodeJS.
 
+# ⛔ ATTENTION
+The current version, `v1.0.0` is no longer working and supported. See [the related issue](https://github.com/itsrn/heypi-js/issues/1) for more details.
+
 # 📑 Notice
 This personal project *is not* affiliated with Inflection AI and is only for *educational purposes* only. Using this may result in violating [Pi TOS](https://heypi.com/policy#terms).
 I *am not* responsible for any consequences, damages, or losses arising from the use or misuse of this repository or the content provided by Pi. Users are solely responsible for their actions and any repercussions that may follow. By using the code available in this repository, you agree to these terms and the license of the repo and the [privacy policy of Pi](https://heypi.com/policy#privacy).
