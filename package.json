@@ -4,5 +4,6 @@
     "description": "Unofficial HeyPi API wrapper",
     "repository": "https://github.com/itsrn/heypi-js.git",
     "author": "ronnuss",
-    "main": "./src/index.js"
+    "main": "./src/index.js",
+    "type": "module"
 }
