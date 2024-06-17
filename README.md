@@ -1,3 +1,6 @@
+# Archived
+Due to inactivity and that [the only version doesn't work](https://github.com/itsrn/heypi-js/issues/1), I archived this repo.
+
 # 🍰 heypi-js
 A simple (unofficial) way to use HeyPi in NodeJS.
 
